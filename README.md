@@ -95,7 +95,7 @@ A beautiful and efficient task management application with Kanban board, real-ti
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/chelbapolandaa/taskflow-app.git
+   git clone https://github.com/chelbapolandaa/TaskFlow-App.git
    cd taskflow-app
    ```
 
